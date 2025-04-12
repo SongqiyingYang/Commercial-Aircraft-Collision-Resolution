@@ -7,7 +7,7 @@ This work supports the experiments and methodology presented in the paper:
 
 ---
 
-## Environment
+## 🔧 Environment
 
 - Python 3.11.0  
 - Gurobi Optimizer 11.0.0 (academic license recommended)  
